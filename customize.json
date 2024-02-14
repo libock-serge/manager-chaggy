@@ -1,0 +1,23 @@
+{
+  "greeting": "Yo",
+  "name": "Manager",
+  "greetingText": "La tata des tata",
+  "wishText": "",
+  "imagePath": "img/chaggy.jpeg",
+  "text1": "C'est la St Valentin! 1️⃣4️⃣",
+  "textInChatBox": "Comment faire un gros cadeau pour sa tata...",
+  "sendButtonLabel": "Envoyer",
+  "text2": "C'est ce que je comptais faire...",
+  "text3": "Puis j'ai laissé.",
+  "text4": "J'ai réalisé que je voulais faire quelque chose de",
+  "text4Adjective": "spécial",
+  "text5Entry": "Parce que,",
+  "text5Content": "Tu es spéciale",
+  "smiley": ":)",
+  "bigTextPart1": "AL",
+  "bigTextPart2": " ORS",
+  "wishHeading": "Bonne Saint Valentin, Chaggy!",
+  "outroText": "Tu compte beaucoup pour moi 🐣",
+  "replayText": "Bon, tu peux cliquer ici pour revoir à nouveau",
+  "outroSmiley": ":)"
+}
